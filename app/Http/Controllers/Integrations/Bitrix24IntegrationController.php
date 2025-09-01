@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Integration;
+namespace App\Http\Controllers\Integrations;
 
 use App\Http\Controllers\Controller;
 use App\Models\Integration;

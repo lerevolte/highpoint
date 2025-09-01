@@ -11,7 +11,7 @@ use App\Http\Controllers\IntegrationController;
 
 // Контроллеры интеграций
 use App\Http\Controllers\Integrations\YandexMetrikaController;
-use App\Http\Controllers\Integration\Bitrix24IntegrationController;
+use App\Http\Controllers\Integrations\Bitrix24IntegrationController;
 
 // Контроллеры аналитики
 use App\Http\Controllers\Analytics\ChannelGroupingController;
